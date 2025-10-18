@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+<img width="678" height="609" alt="image" src="https://github.com/user-attachments/assets/e809d7d8-164b-4b62-bbb1-45d63cce312b" />
 
 
 # Result
